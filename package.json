@@ -1,0 +1,8 @@
+{
+  "name": "tiny",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:wtbtgralice/tiny.git",
+  "author": "muronggoudan <78434793@qq.com>",
+  "license": "MIT"
+}
